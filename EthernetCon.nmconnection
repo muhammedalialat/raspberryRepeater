@@ -1,0 +1,13 @@
+[connection]
+id=EthernetCon
+uuid=93ef9f06-62b4-4431-8123-626d63bf5bda
+type=ethernet
+interface-name=eth0
+master=378b30ff-d5bf-4f39-a54d-067345d88560
+permissions=
+slave-type=bridge
+
+[ethernet]
+mac-address-blacklist=
+
+[bridge-port]
